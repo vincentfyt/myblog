@@ -1,2 +1,2 @@
 # myblog
-some scrap ideas
+my scrap ideas
